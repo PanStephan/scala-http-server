@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleRoutes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/ExampleRoutes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/ExampleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/ExampleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleRoutes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/ExampleRoutes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleRoutes$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/ExampleRoutes$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/stepanstartsev/Development/scala/hello_world/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

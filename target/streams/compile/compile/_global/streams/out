@@ -1,0 +1,24 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:4:19: object dsl is not a member of package org.http4s[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.http4s.dsl.Http4sDsl[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:22:48: not found: type Http4sDsl[0m
+[0m[[0m[31merror[0m] [0m[0mcase class ExampleRoutes[F[_]: Sync]() extends Http4sDsl[F] {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:24:33: constructor cannot be instantiated to expected type;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : (T1, T2)[0m
+[0m[[0m[31merror[0m] [0m[0m required: org.http4s.Request[F][0m
+[0m[[0m[31merror[0m] [0m[0m    HttpRoutes.of[F] { case GET -> Root / "ping" =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:24:29: not found: value GET[0m
+[0m[[0m[31merror[0m] [0m[0m    HttpRoutes.of[F] { case GET -> Root / "ping" =>[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:24:41: not found: value /[0m
+[0m[[0m[31merror[0m] [0m[0m    HttpRoutes.of[F] { case GET -> Root / "ping" =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:24:36: not found: value Root[0m
+[0m[[0m[31merror[0m] [0m[0m    HttpRoutes.of[F] { case GET -> Root / "ping" =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/stepanstartsev/Development/scala/hello_world/src/main/scala/Main.scala:25:7: not found: value Ok[0m
+[0m[[0m[31merror[0m] [0m[0m      Ok("ping")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
